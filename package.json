@@ -4,9 +4,9 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "serve": "vite preview"
+    "dev": "vite",           // Za razvoj
+    "build": "vite build",   // Za build produkcije
+    "preview": "vite preview" // Za pokretanje produkcijske verzije
   },
   "keywords": [],
   "author": "",

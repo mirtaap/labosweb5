@@ -1,7 +1,7 @@
 
 # Peta laboratorijska vježba - Napredni razvoj programske potpore za web
 
-URL aplikacije u cloudu: https://fer-web2-lab5.onrender.com/.  
+URL aplikacije u cloudu:  
 Aplikacija se pokreće pomoću naredbe `npm run dev`.
 
 1. **interpolation/one-way binding** - DA - `views/MealPage.vue`, linija 4.
